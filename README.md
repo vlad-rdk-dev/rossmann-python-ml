@@ -1,6 +1,9 @@
 # rossmann-python-ml
 Final project for Python for AI course at Iron Hack
 
+Link to presentation:
+https://docs.google.com/presentation/d/12dsWYqd2VBMzhT35Ltthgrm9O_onxduQ85vrVvw8QZM/edit?usp=sharing
+
 ### Read-Me: Model Evaluation and Hyperparameter Tuning for Store Sales Prediction
 
 #### Introduction
